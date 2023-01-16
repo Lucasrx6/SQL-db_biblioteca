@@ -1,4 +1,4 @@
-### db_discoteca
+### db_biblioteca
 
 Este banco de dados foi desenvolvido nas Aulas de Administrador de Banco de Dados no SENAI.
 ____________________________________________
@@ -6,12 +6,12 @@ Abaixo você encontrá uma breve apresentação do banco.
 
 ### --- MODELO CONCEITUAL ---
 
-![Conceitual](https://user-images.githubusercontent.com/86980974/212477679-22a8521a-9e19-4968-81c8-2b80ce0fbe93.PNG)
+![CONCEITUAL BIBLIOTECA](https://user-images.githubusercontent.com/86980974/212684077-7fac6db0-71a0-421f-b16f-b34c3bcacfca.PNG)
 
 
 ### --- MDOELO LOGICO --- 
 
-![db_discoteca](https://user-images.githubusercontent.com/86980974/212477764-7b61d409-4274-4bce-9dd4-0003df84c580.png)
+![Logico BIBLIOTECA](https://user-images.githubusercontent.com/86980974/212684206-98859eb0-fea1-4116-aa60-2a3921212f0d.PNG)
 
 
 _______________________________________________
