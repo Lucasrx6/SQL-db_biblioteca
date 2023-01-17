@@ -18,7 +18,8 @@ _______________________________________________
 
 ### --- ESTRUTURA DO BANCO DE DADOS --- 
 			
-![image](https://user-images.githubusercontent.com/86980974/212478469-4c9bb88a-4682-4470-86ae-6b8720ecfa46.png)
+![image](https://user-images.githubusercontent.com/86980974/212919176-f190c217-1637-4c90-acc7-ed7a1e999b28.png)
+
 
 _______________________________________________
 
